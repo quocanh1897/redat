@@ -1,4 +1,8 @@
-# Redat
+Redat is a tool for visualize Redis-cluster on terminal
+
+<div align="center">
+	<img src="./img/redat.gif" width="900">
+</div>
 
 ## Features:
 
@@ -24,12 +28,6 @@ cluster:
 go mod vendor
 go run redat.go
 ```
-
-## Overview
-
-<div align="center">
-	<img src="./img/redat.gif" width="900">
-</div>
 
 ## License
 
