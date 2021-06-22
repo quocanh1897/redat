@@ -28,7 +28,7 @@ go run redat.go
 ## Overview
 
 <div align="center">
-	<img src="./img/redat.gif" width="580">
+	<img src="./img/redat.gif" width="780">
 </div>
 
 ## License
